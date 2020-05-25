@@ -6,8 +6,7 @@
 AsceticBear
 ===========================================
 
-I am AsceticBear, a programmer in china.
-
+Hi, I am AsceticBear, a bear who likes hacking tools at night in linux world and writing code in afternoon.
 
 .. toctree::
    :maxdepth: 1
