@@ -1,4 +1,4 @@
-# What makes rust super star
+# What Makes Rust Super Star
 
 Rust is a system programming language that runs **blazingly fast**, prevent segfaults, and guarantees **thread safety**.
 
