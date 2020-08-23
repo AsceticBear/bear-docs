@@ -14,3 +14,4 @@ Hi, I am AsceticBear, a bear who likes hacking tools at night in linux world and
    :caption: Contents:
 
    rust
+   TaiChi

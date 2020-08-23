@@ -1,3 +1,2 @@
 sphinx_glpi_theme == 0.3
 PSphinxTheme == 2.0.5
-Sphinx==1.8.2
