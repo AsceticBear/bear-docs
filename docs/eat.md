@@ -30,5 +30,6 @@
 ## Life
 
 - [What happens to older (over 30) programmers?](https://www.zhihu.com/question/367880694/answer/1155422395) 🔥🔥🔥
-- [Thinking is a drug](https://guzalexander.com/2012/12/17/thinking-is-a-drug.html)
+- [Thinking is a drug](https://guzalexander.com/2012/12/17/thinking-is-a-drug.html) 🌱🌱🌱
 - [Digit nomad community around the world](https://nomadlist.com/)
+- [Leaving Google: Five Years On](https://theartofmachinery.com/2020/08/04/leaving_google.html) 📽️
