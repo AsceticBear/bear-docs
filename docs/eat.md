@@ -18,6 +18,7 @@
 
 - [An Overview of Bitcoin UTXOs](https://eklitzke.org/an-overview-of-bitcoin-utxos) 🔥
 - [Bitcoin UTXO Stats](https://utxo-stats.com/)🔥
+- [A brief summary of everything Substrate and Polkadot](https://medium.com/polkadot-network/a-brief-summary-of-everything-substrate-and-polkadot-f1f21071499d)
 
 ## Tools
 
