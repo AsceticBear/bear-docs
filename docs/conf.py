@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = u'AsceticBear'
-copyright = u'2020, bear'
+copyright = u'2021, bear'
 author = u'bear'
 
 # The short X.Y version
