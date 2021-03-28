@@ -1,4 +1,4 @@
-# *Frequently Reading List*
+# Frequently Reading List
 
 ## Programming
 

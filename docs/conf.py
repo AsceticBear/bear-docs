@@ -38,7 +38,6 @@ release = u'0.3.0'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-# extensions = ['recommonmark']
 # -- Extensions --------------------------------------------------------------
 extensions = [
     "recommonmark",
@@ -87,7 +86,7 @@ html_theme_options = {}
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 html_css_files = [
-    '_static/css/custom.css',
+    'css/custom.css',
 ]
 
 
@@ -101,10 +100,10 @@ html_css_files = [
 #
 # html_sidebars = {}
 
-# html_title = "{} {}".format(project, release)
 html_short_title = "Home"
+html_show_sourcelink = False
 
-html_theme = 'p-greenblue'
+html_theme = 'p-red'
 import os
 from PSphinxTheme import utils
 
@@ -140,22 +139,3 @@ epub_title = project
 
 # A list of files that should not be packed into the epub file.
 epub_exclude_files = ['search.html']
-
-
-# latex_elements={# The paper size ('letterpaper' or 'a4paper').
-# 'papersize':'letterpaper',# The font size ('10pt', '11pt' or '12pt').
-# 'pointsize':'12pt','classoptions':',oneside','babel':'',#必須
-# 'inputenc':'',#必須
-# 'utf8extra':'',#必須
-# # Additional stuff for the LaTeX preamble.
-# 'preamble': r"""
-# \usepackage{xeCJK}
-# \usepackage{indentfirst}
-# \setlength{\parindent}{2em}
-# \setCJKmainfont{WenQuanYi Micro Hei}
-# \setCJKmonofont[Scale=0.9]{WenQuanYi Micro Hei Mono}
-# \setCJKfamilyfont{song}{WenQuanYi Micro Hei}
-# \setCJKfamilyfont{sf}{WenQuanYi Micro Hei}
-# \XeTeXlinebreaklocale "zh"
-# \XeTeXlinebreakskip = 0pt plus 1pt
-# """}
