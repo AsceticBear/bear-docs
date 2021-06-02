@@ -72,8 +72,7 @@ pygments_style = 'sphinx'
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-# html_theme = 'alabaster'
-# html_theme = 'sphinx_rtd_theme'
+html_theme = 'press'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
@@ -103,13 +102,6 @@ html_css_files = [
 html_short_title = "Home"
 html_show_sourcelink = False
 
-html_theme = 'p-red'
-import os
-from PSphinxTheme import utils
-
-p, html_theme, needs_sphinx = utils.set_psphinxtheme(html_theme)
-html_theme_path = p
-
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
@@ -127,15 +119,6 @@ man_pages = [
 
 # Bibliographic Dublin Core info.
 epub_title = project
-
-# The unique identifier of the text. This can be a ISBN number
-# or the project homepage.
-#
-# epub_identifier = ''
-
-# A unique identification for the text.
-#
-# epub_uid = ''
 
 # A list of files that should not be packed into the epub file.
 epub_exclude_files = ['search.html']
