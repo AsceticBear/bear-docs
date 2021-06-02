@@ -12,7 +12,6 @@ Hi, I am AsceticBear, a bear who likes hacking tools at night in linux world and
    :maxdepth: 1
    :caption: Contents:
 
-   eat
    rust
    TaiChi
    remote
